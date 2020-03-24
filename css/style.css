@@ -1,0 +1,193 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: absolute;
+	background-color: #ff6796;
+	width: 100%;
+	top:0;
+}
+#slides{
+	color: #fff;
+}
+
+#carousel{
+    padding-top: 62px;
+
+}
+.ladoderecho{
+    background-color: #FF6796;
+	padding-top: 120px;
+
+}
+.circulo2{
+    background-color:#EFA1CA;
+    padding: 40px;
+    border-radius: 1000px;
+    height: 400px;
+    width: 400px;
+}
+
+.lado1{
+    background-color: #FF6796;
+    padding-left: 200px;
+
+}
+
+#works{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 100px;
+	font-family: "Lobster";
+	color: #444444;
+}
+.works{
+	border-radius: 100px;
+	border-color: #FFA1D9;
+	border-style: solid;
+	border-width: 16px;
+	height: 200px;
+	width: 200px;
+}
+#works h2{
+	padding-bottom: 60px;
+	font-size: 40px;
+}
+
+
+
+#products{
+	text-align: center;
+	background-color:  #01BEFE;
+	color: #fff;
+	font-family: "Open Sans";
+	padding: 80px;
+}
+#products img{
+	border-radius: 10px;
+	z-index: 6px;
+}
+#products .info{
+	background-color: #fff;
+	color: #444444;
+	padding: 10px;
+	border-radius: 15px;
+
+}
+#products h2{
+	font-family: "Lobster";
+	padding-bottom: 60px;
+	font-size: 40px;
+} 
+.info h3{
+	font-family: "Lobster";
+	font-size: 20px;
+}
+.info p{
+	font-size: 12px;
+}
+
+
+
+#features{
+	background-color:  #FF6796;
+	color: #fff;
+	text-align: center;
+	padding: 60px;
+}
+#features i{
+	font-size: 60px;
+	padding: 30px
+}
+#features h3{
+	font-family: "Lobster";
+	font-size: 20px;
+}
+#features p{
+	font-family: "Open Sans";
+	font-size: 12px;
+}
+#features h2{
+	font-family: "Lobster";
+	font-size: 40px;
+}
+
+
+
+#about{
+	padding-top: 60px;
+	font-family: "Open Sans";
+	color: #444;
+}
+#about h2{
+	padding-bottom: 60px;
+}
+#about p{
+	text-align: center;
+}
+.title{
+	font-family: "Lobster";
+	font-size: 40px;
+}
+#about a{
+	color: #FFFFFF;
+}
+
+
+.btn-light{
+	font-family: "open sans";
+	background-color: #01BEFE;
+	border-radius: 100px;
+	padding: 10px 20px;
+	border: 0;
+}
+
+
+#team{
+	background-color: #01BEFE;
+	color: #fff;
+	text-align: center;
+	padding: 60px;
+}
+#team img{
+	border: solid 12px #FFA1D9;
+	border-radius: 100px;
+	width: 210px;
+	height: 200px
+}
+#team .info{
+	padding: 20px;
+}
+#team i{
+	border: solid 2px;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 10px;
+}
+#team h2{
+	padding-bottom: 60px;
+}
+
+
+footer{
+	background-color: #444444;
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+	padding-top: 150px;
+}
+
+footer i{
+	color: #fff;
+	font-size: 20px;
+	border: solid 1px;
+	padding: 10px;
+	border-radius: 100px;
+}
+footer hr{
+	border-color: #fff;
+	border: dashed;
+	border-width: 1px;
+}
